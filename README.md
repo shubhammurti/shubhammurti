@@ -1,6 +1,6 @@
 # Hi 👋, I'm Shubham Murti ✨
 
-I am an aspiring Cloud Security Engineer with a solid foundation in Computer Science (MSc '24). I am deeply committed to my career growth and aim to excel as a cloud architect.
+I am an aspiring Cloud Security Engineer with a solid foundation in Computer Science (MSc '24). I am deeply committed to my career growth and aim to excel as a cloud security engineer.
 
 ## About Me
 Currently, I am dedicated to honing my skills and expertise, preparing for a career in cloud engineering. I am actively involved in networking, operating systems, virtualization, and databases – the fundamental building blocks of cloud computing.
