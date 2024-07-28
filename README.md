@@ -10,12 +10,12 @@ My focus is on acquiring practical experience as a cloud engineer, bridging the 
 I am committed to continuous learning, possess a growth mindset, and am eager to contribute to innovative cloud solutions that drive business transformation.
 
 ## Skills and Expertise
-* Networking: Knowledgeable about various networking technologies.
-* Operating Systems: Proficient in Linux and Windows OS.
-* Virtualization: Knowledgeable about virtualization technologies.
-* Databases: Understanding of SQL and NoSQL databases.
-* Cloud Platforms: Familiar with AWS.
-* Programming Languages: Proficient in Python.
+* **Networking**: Knowledgeable about various networking technologies.
+* **Operating Systems**: Proficient in Linux and Windows OS.
+* **Virtualization**: Knowledgeable about virtualization technologies.
+* **Databases**: Understanding of SQL and NoSQL databases.
+* **Cloud Platforms**: Familiar with AWS.
+* **Programming Languages**: Proficient in Python.
 
 ## Current Focus
 Expanding my knowledge in cloud security engineer.
